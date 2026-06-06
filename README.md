@@ -1,1 +1,1 @@
-https://conantecleando.github.io/Curriculum/#education
+https://conantecleando.github.io/Curriculum
